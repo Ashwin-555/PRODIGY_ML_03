@@ -1,4 +1,4 @@
-# PRODIGY_ML_03
+# Cat and Dog classification
 This repository implements a Support Vector Machine (SVM) classifier in Python to classify images of cats and dogs from the popular Kaggle Cats vs Dogs dataset.
 
 The code provides a basic framework for:
